@@ -1,3 +1,5 @@
+package DuckInterfaceBehaviors;
+
 /**
  * Created by micheal on 08/10/2017.
  */
